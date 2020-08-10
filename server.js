@@ -9,6 +9,7 @@ const session = require('express-session');
 
 
 const SequelizeStore = require('connect-session-sequelize')(session.Store);
+//sets up session
 const sess = {
   secret: 'Super secret secret',
   cookie: {},
