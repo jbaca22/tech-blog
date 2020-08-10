@@ -1,6 +1,7 @@
 {
   "name": "tech-blog",
   "version": "1.0.0",
+  "description": "",
   "main": "server.js",
   "dependencies": {
     "bcrypt": "^5.0.0",
@@ -21,12 +22,11 @@
     "type": "git",
     "url": "git+https://github.com/jbaca22/tech-blog.git"
   },
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jbaca22/tech-blog/issues"
   },
-  "homepage": "https://github.com/jbaca22/tech-blog#readme",
-  "keywords": [],
-  "description": ""
+  "homepage": "https://github.com/jbaca22/tech-blog#readme"
 }
